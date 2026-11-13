@@ -386,7 +386,7 @@ Please describe your changes clearly when submitting a contribution.
 ## 👨‍💻 Author
 
 **Deepak Kumar Sharma**
-
+        
 GitHub: [@Deepak-Kumar-DS](https://github.com/Deepak-Kumar-DS)
 
 Project: [PhantomDraw AI](https://github.com/Deepak-Kumar-DS/PhantomDraw)
@@ -405,6 +405,6 @@ Unless a license is added, all rights are reserved by the copyright holder. Publ
 
 If you find this project interesting, consider giving the repository a Star on GitHub.
 
-Your support and feedback are appreciated!
+Your support and feedback are appreciated! 
 
 **Developed by Deepak Kumar Sharma**
